@@ -1,0 +1,9 @@
+Test
+
+https://worldtimeapi.org/api/timezone/Asia/Tokyo
+
+
+{"abbreviation":"JST","client_ip":"49.206.38.123","datetime":"2021-01-14T21:40:29.921788+09:00",
+"day_of_week":4,"day_of_year":14,"dst":false,"dst_from":null,"dst_offset":0,"dst_until":null,"raw_offset":32400,
+"timezone":"Asia/Tokyo","unixtime":1610628029,"utc_datetime":"2021-01-14T12:40:29.921788+00:00",
+"utc_offset":"+09:00","week_number":2}
